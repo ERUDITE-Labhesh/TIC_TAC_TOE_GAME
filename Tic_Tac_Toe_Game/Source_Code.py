@@ -2,7 +2,7 @@
 # The Following Code in Written in Python3 language
 
 import random
-
+print("Tic Tac Toe ")
 
 def main_tic_tac_toe():
     global user_char
