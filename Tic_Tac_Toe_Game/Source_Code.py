@@ -3,7 +3,7 @@
 
 import random
 print("Tic Tac Toe ")
-
+print(" Please Play " ) 
 def main_tic_tac_toe():
     global user_char
 
